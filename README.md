@@ -1,10 +1,10 @@
 # annotation-processor-practice
 
-annotationprocessor
+# annotationprocessor
 
 mvn clean install
 
-main-annotation-processor
+# main-annotation-processor
 
 mvn clean compile
 
